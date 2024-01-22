@@ -1,3 +1,11 @@
+## Instructions
+
+1. git clone https://github.com/yingqiulii/Docker-File.git
+   cd Li_Yingqiu_Site
+2. docker build -t li_yingqiu_site .
+3. docker run -p 7775:3000 li_yingqiu_site
+4. http://localhost:7775
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Li_Yingqiu_Site
+
+This repository contains a Dockerfile to build and run a React application.
+
