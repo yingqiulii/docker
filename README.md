@@ -1,10 +1,8 @@
 ## Instructions
 
 1. git clone https://github.com/yingqiulii/Docker-File.git
-   cd Li_Yingqiu_Site
-2. docker build -t li_yingqiu_site .
-3. docker run -p 7775:3000 li_yingqiu_site
-4. http://localhost:7775
+2. docker run -d -p 7775:3000 li_yingqiu_coding_assignment11
+3. Open your browser and go to http://127.0.0.1:7775
 
 # Getting Started with Create React App
 
